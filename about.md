@@ -10,4 +10,4 @@ I'm a Technical Project Manager with a large healthcare provider and services co
 Email: <a href="mailto:{{site.email}}?Subject=From Blog Site:">{{site.email}}</a>
 
 ## Resume
-To be added later
+<iframe src="https://drive.google.com/file/d/1n5qCjmqWWv83RVt5hxVk1_Mi-y3wKg_G/view?usp=sharing" width="100%" height="900"></iframe>
