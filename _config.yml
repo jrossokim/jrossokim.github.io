@@ -27,6 +27,12 @@ urls:
     - text: Projects
       url: /projects/
 
+# url: "http://localhost:4000"
+url: "https://jrossokim.github.io/"
+baseurl: ""
+paginate: 20
+per_page: 20
+paginate_path: "/blogs/page/:num/"
 markdown: kramdown
 gems:
   - jekyll-paginate
