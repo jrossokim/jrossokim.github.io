@@ -9,4 +9,4 @@ I'm a Technical Project Manager with a large healthcare provider and services co
 
 
 ## Resume
-<iframe src="https://drive.google.com/file/d/1n5qCjmqWWv83RVt5hxVk1_Mi-y3wKg_G/view?usp=sharing" width="100%" height="900"></iframe>
+<iframe src="https://drive.google.com/file/d/1n5qCjmqWWv83RVt5hxVk1_Mi-y3wKg_G" width="100%" height="900"></iframe>
