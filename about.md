@@ -8,5 +8,4 @@ I'm a Technical Project Manager with a large healthcare provider and services co
 </p>
 
 ## Resume
-<iframe src="https://docs.google.com/viewerng/viewer?url=https://library.osu.edu/assets/Documents/SEL/QuickConvertWordPDF.pdf?
-pid=explorer&efh=false&a=v&chrome=false&embedded=true" width="100%" height="900"></iframe>
+<iframe src="https://docs.google.com/viewerng/viewer?url=https://library.osu.edu/assets/Documents/SEL/QuickConvertWordPDF.pdf&embedded=true" width="100%" height="900"></iframe>
