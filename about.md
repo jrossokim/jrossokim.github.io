@@ -8,4 +8,4 @@ I'm a Technical Project Manager with a large healthcare provider and services co
 </p>
 
 ## Resume
-<iframe src="https://docs.google.com/viewer?url="http://infolab.stanford.edu/pub/papers/google.pdf&embedded=true" width="100%" height="900"></iframe>
+<iframe src="https://docs.google.com/viewer?url=http://infolab.stanford.edu/pub/papers/google.pdf&embedded=true" width="100%" height="900"></iframe>
